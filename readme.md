@@ -1,4 +1,5 @@
-# David Escutia de Haro
+# David Escutia de Haro 
+### aka Dvix
 >Web developer & Graphics Designer from Malaga
 
 ## Worked in...
