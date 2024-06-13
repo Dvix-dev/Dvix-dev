@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/9sit3hJ.png">
+<img src="https://i.imgur.com/vMdPSz5.jpg">
 
 # 👨🏻‍💻 David Escutia de Haro
 > Web Developer & Graphics Designer from Malaga 
