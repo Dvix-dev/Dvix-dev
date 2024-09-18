@@ -34,8 +34,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvix-dev&layout=compact&theme=radical)
 
 ## 🙀 Talent Land 2024
-<img src="https://i.imgur.com/jt4eZeu.jpeg">
-<img src="https://i.imgur.com/mg8NcU4.jpeg">
+<div style="text-align:center;">
+  <img width=300px src="https://i.imgur.com/jt4eZeu.jpeg">
+  <img width=300px src="https://i.imgur.com/mg8NcU4.jpeg">
+</div>
 
 ## 📨 Contact Me
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvixes@dvix.es)
