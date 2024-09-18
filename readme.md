@@ -33,6 +33,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvix-dev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvix-dev&layout=compact&theme=radical)
 
+## 🙀 Talent Land 2024
+<img src="[https://i.imgur.com/jt4eZeu.jpeg](https://github.com/mouredev)">
+<img src="[https://i.imgur.com/mg8NcU4.jpeg](https://github.com/midudev)">
+
 ## 📨 Contact Me
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvixes@dvix.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
