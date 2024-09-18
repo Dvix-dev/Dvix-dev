@@ -33,10 +33,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvix-dev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvix-dev&layout=compact&theme=radical)
 
-## 🙀 Talent Land 2024
-<div style="text-align:center;">
-  <img width=300px src="https://i.imgur.com/jt4eZeu.jpeg">
-  <img width=300px src="https://i.imgur.com/mg8NcU4.jpeg">
+## 🪐 Talent Land 2024
+<div>
+<img width=300px src="https://i.imgur.com/jt4eZeu.jpeg">
+<img width=300px src="https://i.imgur.com/mg8NcU4.jpeg">
 </div>
 
 ## 📨 Contact Me
