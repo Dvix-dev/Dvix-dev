@@ -30,10 +30,18 @@
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvix-dev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvix-dev&layout=compact&theme=dark)
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dvix-dev&layout=compact&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dvix-dev&amp;theme=dark)
+<a href="https://github-readme-stats.vercel.app/api?username=dvix-dev&theme=dark">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dvix-dev&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=dvix-dev&layout=compact&langs_count=8&card_width=320&theme=dark">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvix-dev&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dvix-dev&layout=compact&card_width=720&theme=dark">
+  <img style="border 1px solid white;" height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dvix-dev&layout=compact&card_width=720&theme=dark" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Dvix-dev&amp;theme=dark">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dvix-dev&amp;theme=dark" />
+</a>
 
 ## 🪐 Talent Land 2024
 <div>
