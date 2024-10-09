@@ -32,6 +32,7 @@
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvix-dev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvix-dev&layout=compact&theme=radical)
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dvix-dev&theme=monokai)
 
 ## 🪐 Talent Land 2024
 <div>
