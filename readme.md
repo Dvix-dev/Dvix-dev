@@ -3,14 +3,14 @@
 </a>
 
 # 👨🏻‍💻 David Escutia de Haro
-> Web Developer & Graphics Designer from Malaga
-> [![wakatime](https://wakatime.com/badge/user/aaa33506-ddd2-4aaa-abd0-05871070df73.svg)](https://wakatime.com/@aaa33506-ddd2-4aaa-abd0-05871070df73)
+> Web Developer & Graphics Designer from Malaga<br>
 > [My Website](https://dvix.es/)
+[![wakatime](https://wakatime.com/badge/user/aaa33506-ddd2-4aaa-abd0-05871070df73.svg)](https://wakatime.com/@aaa33506-ddd2-4aaa-abd0-05871070df73)
 
 ## 💻 Professional Experience
 * [Axarnet](https://axarnet.es/)
 * [Axarcloud](https://www.axarcloud.es/)
-* ~Guadalinfo Algarrobo~ ➡️ [Punto Vuela Algarrobo](https://guadalinfoalgarrobo.com/)
+* [Punto Vuela Algarrobo](https://guadalinfoalgarrobo.com/)
 
 ## 🛠️ Skills
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
