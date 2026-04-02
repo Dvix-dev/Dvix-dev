@@ -3,8 +3,8 @@
 </a>
 
 # 👨🏻‍💻 David Escutia de Haro
-> Web Developer & Graphics Designer from Malaga<br>
-> [My Website](https://dvix.es/)
+> Web Developer from Malaga<br>
+
 [![wakatime](https://wakatime.com/badge/user/aaa33506-ddd2-4aaa-abd0-05871070df73.svg)](https://wakatime.com/@aaa33506-ddd2-4aaa-abd0-05871070df73)
 
 ## 💻 Professional Experience
